@@ -10,3 +10,5 @@
 ## Contents
 - Data Structures
     - Arrays
+        - [Permutations](./data_structures/arrays/permutations.md)
+        - [Equilibrium Index](./data_structures/arrays/equilibrium_index.md)
